@@ -4,9 +4,6 @@
     "config:base",
     "group:monorepos"
   ],
-  "schedule": [
-    "every month"
-  ],
   "commitBody": "[skip ci]",
   "labels": ["dependencies"],
   "packageRules": [
